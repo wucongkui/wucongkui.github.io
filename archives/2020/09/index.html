@@ -407,5 +407,17 @@
 
   
 
+<script>
+NexT.utils.loadComments('#valine-comments', () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', () => {
+    new Valine(Object.assign({"enable":true,"appId":"OrQIjHX10msjsi2FrBTCydjA-gzGzoHsz","appKey":"Qdhyekt2n6F7OevcXSoF2Nar","serverURLs":null,"placeholder":"Just go go","avatar":"mm","meta":["nick","mail","link"],"pageSize":10,"lang":null,"visitor":false,"comment_count":true,"recordIP":false,"enableQQ":false,"requiredFields":[]}, {
+      el: '#valine-comments',
+      path: "/archives/2020/09/",
+      serverURLs: "https://orqijhx1.api.lncldglobal.com"
+    }));
+  }, window.Valine);
+});
+</script>
+
 </body>
 </html>
