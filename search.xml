@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>在Mac环境下用Hexo+GitHub搭建个人博客的方法</title>
+    <title></title>
     <url>/2020/09/25/blogbuild/</url>
-    <content><![CDATA[<hr>
-<p>tags: 关于博客<br>categories: 干燥工厂</p>
-<hr>
-<p>前言</p>
+    <content><![CDATA[<h2 id="在Mac环境下用Hexo-GitHub搭建个人博客的方法"><a href="#在Mac环境下用Hexo-GitHub搭建个人博客的方法" class="headerlink" title="在Mac环境下用Hexo+GitHub搭建个人博客的方法"></a>在Mac环境下用Hexo+GitHub搭建个人博客的方法</h2><p>前言</p>
 <p>软件介绍：</p>
 <p>Home-brew：是一款MacOS平台下的软件包管理工具，可实现软件的安装、卸载、更新、查看、搜索等功能。可以通过简单的指令对软件进行管理，类似于Ubuntu终端上的apt-get命令。但并非所有软件都可以安装，它只是能安装一些系统缺省的软件包，例如：wget、nginx、mysql等。但随着版本的更新，支持安装第三方数据源的软件包，以后支持安装的软件包会更多、更丰富。</p>
 <p>Git:  全称分布式版本控制系统，免费且开源，可以有效高速的处理从小到大的项目版本管理。可以使用git命令将代码提交到GitHub。</p>
@@ -93,6 +90,12 @@
     在终端输入命令ssh -T git@github.com，若显示以下内容表示已经完成配置了。</code></pre>
 <h3 id="八、通过GitHub网址访问博客"><a href="#八、通过GitHub网址访问博客" class="headerlink" title="八、通过GitHub网址访问博客"></a>八、通过GitHub网址访问博客</h3><pre><code> 现在就可以登陆wucongkui.github.io访问博客了！</code></pre>
 ]]></content>
+      <categories>
+        <category>干燥工厂</category>
+      </categories>
+      <tags>
+        <tag>关于博客</tag>
+      </tags>
   </entry>
   <entry>
     <title>最爱的一首诗</title>
