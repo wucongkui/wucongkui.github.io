@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title>在Mac环境下用Hexo+GitHub搭建个人博客的方法</title>
     <url>/2020/09/25/blogbuild/</url>
     <content><![CDATA[<hr>
-<h2 id="title-在Mac环境下用Hexo-GitHub搭建个人博客的方法"><a href="#title-在Mac环境下用Hexo-GitHub搭建个人博客的方法" class="headerlink" title="title: 在Mac环境下用Hexo+GitHub搭建个人博客的方法"></a>title: 在Mac环境下用Hexo+GitHub搭建个人博客的方法</h2><p>前言</p>
+<p>tags: 关于博客<br>categories: 干燥工厂</p>
+<hr>
+<p>前言</p>
 <p>软件介绍：</p>
 <p>Home-brew：是一款MacOS平台下的软件包管理工具，可实现软件的安装、卸载、更新、查看、搜索等功能。可以通过简单的指令对软件进行管理，类似于Ubuntu终端上的apt-get命令。但并非所有软件都可以安装，它只是能安装一些系统缺省的软件包，例如：wget、nginx、mysql等。但随着版本的更新，支持安装第三方数据源的软件包，以后支持安装的软件包会更多、更丰富。</p>
 <p>Git:  全称分布式版本控制系统，免费且开源，可以有效高速的处理从小到大的项目版本管理。可以使用git命令将代码提交到GitHub。</p>
@@ -30,7 +32,7 @@
 
    source一下
    source ~/.zshrc</code></pre>
-<h3 id="安装node"><a href="#安装node" class="headerlink" title="安装node"></a>安装node</h3><pre><code>    通过nvm安装node
+<h3 id="四、安装node"><a href="#四、安装node" class="headerlink" title="四、安装node"></a>四、安装node</h3><pre><code>    通过nvm安装node
     nvm ls-remote                           #查看node所有版本
     nvm install v12.18.3                  #安装你要的版本
     nvm use v12.18.3                      #使用指定的版本
@@ -39,7 +41,7 @@
     检查是否安装成功
     node -v
     npm -v</code></pre>
-<h3 id="安装配置hexo"><a href="#安装配置hexo" class="headerlink" title="安装配置hexo"></a>安装配置hexo</h3><pre><code>    利用npm命令安装
+<h3 id="五、安装配置hexo"><a href="#五、安装配置hexo" class="headerlink" title="五、安装配置hexo"></a>五、安装配置hexo</h3><pre><code>    利用npm命令安装
     npm install -g hexo-cli           #-g参数表示全局安装
 
     初始化hexo 
@@ -67,10 +69,10 @@
     ￼
     浏览器访问图片中地址即可访问博客。
 </code></pre>
-<h3 id="申请GitHub账号"><a href="#申请GitHub账号" class="headerlink" title="申请GitHub账号"></a>申请GitHub账号</h3><pre><code>    https://github.com/ 官网上注册账号并登录。
+<h3 id="六、申请GitHub账号"><a href="#六、申请GitHub账号" class="headerlink" title="六、申请GitHub账号"></a>六、申请GitHub账号</h3><pre><code>    https://github.com/ 官网上注册账号并登录。
 
     创建一个新的仓库，其中库名最好与用户名同名。我的库名是wucongkui.github.io，然后点击creat repositorya按钮完成创建。</code></pre>
-<h3 id="生成ssh密钥连接github"><a href="#生成ssh密钥连接github" class="headerlink" title="生成ssh密钥连接github"></a>生成ssh密钥连接github</h3><pre><code>    生成ssh密钥：
+<h3 id="七、生成ssh密钥连接github"><a href="#七、生成ssh密钥连接github" class="headerlink" title="七、生成ssh密钥连接github"></a>七、生成ssh密钥连接github</h3><pre><code>    生成ssh密钥：
     ls ~/.ssh/               #检查本机已存在的ssh密钥，下图表示已经配置过了。
 ￼
     若没有配置过，执行以下命令：
@@ -89,14 +91,8 @@
 
     测试：
     在终端输入命令ssh -T git@github.com，若显示以下内容表示已经完成配置了。</code></pre>
-<h3 id="通过GitHub网址访问博客"><a href="#通过GitHub网址访问博客" class="headerlink" title="通过GitHub网址访问博客"></a>通过GitHub网址访问博客</h3><pre><code> 现在就可以登陆wucongkui.github.io访问博客了！</code></pre>
+<h3 id="八、通过GitHub网址访问博客"><a href="#八、通过GitHub网址访问博客" class="headerlink" title="八、通过GitHub网址访问博客"></a>八、通过GitHub网址访问博客</h3><pre><code> 现在就可以登陆wucongkui.github.io访问博客了！</code></pre>
 ]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>测试标签</tag>
-      </tags>
   </entry>
   <entry>
     <title>最爱的一首诗</title>
