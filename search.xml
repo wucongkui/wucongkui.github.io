@@ -3,10 +3,10 @@
   <entry>
     <title></title>
     <url>/2020/09/25/blogbuild/</url>
-    <content><![CDATA[<h2 id="在Mac环境下用Hexo-GitHub搭建个人博客的方法"><a href="#在Mac环境下用Hexo-GitHub搭建个人博客的方法" class="headerlink" title="在Mac环境下用Hexo+GitHub搭建个人博客的方法"></a>在Mac环境下用Hexo+GitHub搭建个人博客的方法</h2><p>tags: 博客<br>categories: 干燥工厂</p>
+    <content><![CDATA[<hr>
+<h2 id="在Mac环境下用Hexo-GitHub搭建个人博客的方法"><a href="#在Mac环境下用Hexo-GitHub搭建个人博客的方法" class="headerlink" title="在Mac环境下用Hexo+GitHub搭建个人博客的方法"></a>在Mac环境下用Hexo+GitHub搭建个人博客的方法</h2><p>tags: 博客<br>categories: 干燥工厂</p>
 <hr>
-<p>前言</p>
-<p>软件介绍：</p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>软件介绍：</p>
 <p>Home-brew：是一款MacOS平台下的软件包管理工具，可实现软件的安装、卸载、更新、查看、搜索等功能。可以通过简单的指令对软件进行管理，类似于Ubuntu终端上的apt-get命令。但并非所有软件都可以安装，它只是能安装一些系统缺省的软件包，例如：wget、nginx、mysql等。但随着版本的更新，支持安装第三方数据源的软件包，以后支持安装的软件包会更多、更丰富。</p>
 <p>Git:  全称分布式版本控制系统，免费且开源，可以有效高速的处理从小到大的项目版本管理。可以使用git命令将代码提交到GitHub。</p>
 <p>Nvm：全名node.js version management，是Mac下的一种node的版本管理工具。类似于ruby的rum、python的pyenu工具。</p>
