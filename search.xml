@@ -2,24 +2,8 @@
 <search>
   <entry>
     <title></title>
-    <url>/2020/09/16/test/</url>
-    <content><![CDATA[<hr>
-<h2 id="title-最爱的一首诗"><a href="#title-最爱的一首诗" class="headerlink" title="title: 最爱的一首诗"></a>title: 最爱的一首诗</h2><h2 id="内容介绍"><a href="#内容介绍" class="headerlink" title="内容介绍"></a>内容介绍</h2><h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p><code> 个人博客</code></p>
-<h3 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h3><p><code> 武聪魁</code></p>
-<h3 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h3><p><code>2020年9月16日</code></p>
-<h3 id="地点"><a href="#地点" class="headerlink" title="地点"></a>地点</h3><p><code> 博杜安公司</code></p>
-<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;&lt;一只孤独的船&gt;&gt;</span><br><span class="line">莱蒙托夫</span><br><span class="line">一只船孤独的航行在海上，</span><br><span class="line">它既不寻求幸福，</span><br><span class="line">也不逃避幸福，</span><br><span class="line">他只是向前航行，</span><br><span class="line">底下是沉静碧蓝的大海，</span><br><span class="line">而头顶是金色的太阳。</span><br><span class="line">将要直面的，</span><br><span class="line">与已成过往的，</span><br><span class="line">较之于深埋于他内心的，</span><br><span class="line">皆为微沫。</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <tags>
-        <tag>诗词</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title></title>
     <url>/2020/09/25/blogbuild/</url>
-    <content><![CDATA[<hr>
-<h2 id="在Mac环境下用Hexo-GitHub搭建个人博客的方法"><a href="#在Mac环境下用Hexo-GitHub搭建个人博客的方法" class="headerlink" title="在Mac环境下用Hexo+GitHub搭建个人博客的方法"></a>在Mac环境下用Hexo+GitHub搭建个人博客的方法</h2><p>tags: 博客<br>categories: 干燥工厂</p>
+    <content><![CDATA[<h2 id="在Mac环境下用Hexo-GitHub搭建个人博客的方法"><a href="#在Mac环境下用Hexo-GitHub搭建个人博客的方法" class="headerlink" title="在Mac环境下用Hexo+GitHub搭建个人博客的方法"></a>在Mac环境下用Hexo+GitHub搭建个人博客的方法</h2><p>tags: 博客<br>categories: 干燥工厂</p>
 <hr>
 <p>前言</p>
 <p>软件介绍：</p>
@@ -108,5 +92,20 @@
     在终端输入命令ssh -T git@github.com，若显示以下内容表示已经完成配置了。</code></pre>
 <h3 id="八、通过GitHub网址访问博客"><a href="#八、通过GitHub网址访问博客" class="headerlink" title="八、通过GitHub网址访问博客"></a>八、通过GitHub网址访问博客</h3><pre><code> 现在就可以登陆wucongkui.github.io访问博客了！</code></pre>
 ]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2020/09/16/test/</url>
+    <content><![CDATA[<hr>
+<h2 id="title-最爱的一首诗"><a href="#title-最爱的一首诗" class="headerlink" title="title: 最爱的一首诗"></a>title: 最爱的一首诗</h2><h2 id="内容介绍"><a href="#内容介绍" class="headerlink" title="内容介绍"></a>内容介绍</h2><h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p><code> 个人博客</code></p>
+<h3 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h3><p><code> 武聪魁</code></p>
+<h3 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h3><p><code>2020年9月16日</code></p>
+<h3 id="地点"><a href="#地点" class="headerlink" title="地点"></a>地点</h3><p><code> 博杜安公司</code></p>
+<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;&lt;一只孤独的船&gt;&gt;</span><br><span class="line">莱蒙托夫</span><br><span class="line">一只船孤独的航行在海上，</span><br><span class="line">它既不寻求幸福，</span><br><span class="line">也不逃避幸福，</span><br><span class="line">他只是向前航行，</span><br><span class="line">底下是沉静碧蓝的大海，</span><br><span class="line">而头顶是金色的太阳。</span><br><span class="line">将要直面的，</span><br><span class="line">与已成过往的，</span><br><span class="line">较之于深埋于他内心的，</span><br><span class="line">皆为微沫。</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>诗词</tag>
+      </tags>
   </entry>
 </search>
