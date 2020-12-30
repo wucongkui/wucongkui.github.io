@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title></title>
+    <title>在Mac环境下用Hexo+GitHub搭建个人博客的方法</title>
     <url>/2020/09/25/blogbuild/</url>
     <content><![CDATA[<hr>
-<h2 id="在Mac环境下用Hexo-GitHub搭建个人博客的方法"><a href="#在Mac环境下用Hexo-GitHub搭建个人博客的方法" class="headerlink" title="在Mac环境下用Hexo+GitHub搭建个人博客的方法"></a>在Mac环境下用Hexo+GitHub搭建个人博客的方法</h2><hr>
 <h2 id="tags-博客"><a href="#tags-博客" class="headerlink" title="tags: 博客"></a>tags: 博客</h2><hr>
 <h2 id="categories-干燥工厂"><a href="#categories-干燥工厂" class="headerlink" title="categories: 干燥工厂"></a>categories: 干燥工厂</h2><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>软件介绍：</p>
 <p>Home-brew：是一款MacOS平台下的软件包管理工具，可实现软件的安装、卸载、更新、查看、搜索等功能。可以通过简单的指令对软件进行管理，类似于Ubuntu终端上的apt-get命令。但并非所有软件都可以安装，它只是能安装一些系统缺省的软件包，例如：wget、nginx、mysql等。但随着版本的更新，支持安装第三方数据源的软件包，以后支持安装的软件包会更多、更丰富。</p>
@@ -94,10 +93,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
+    <title>最爱的一首诗</title>
     <url>/2020/09/16/test/</url>
-    <content><![CDATA[<hr>
-<h2 id="title-最爱的一首诗"><a href="#title-最爱的一首诗" class="headerlink" title="title: 最爱的一首诗"></a>title: 最爱的一首诗</h2><h2 id="内容介绍"><a href="#内容介绍" class="headerlink" title="内容介绍"></a>内容介绍</h2><h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p><code> 个人博客</code></p>
+    <content><![CDATA[<h2 id="内容介绍"><a href="#内容介绍" class="headerlink" title="内容介绍"></a>内容介绍</h2><h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p><code> 个人博客</code></p>
 <h3 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h3><p><code> 武聪魁</code></p>
 <h3 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h3><p><code>2020年9月16日</code></p>
 <h3 id="地点"><a href="#地点" class="headerlink" title="地点"></a>地点</h3><p><code> 博杜安公司</code></p>
