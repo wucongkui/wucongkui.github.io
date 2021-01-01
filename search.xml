@@ -3,15 +3,12 @@
   <entry>
     <title>在Mac环境下用Hexo+GitHub搭建个人博客的方法</title>
     <url>/2020/09/25/blogbuild/</url>
-    <content><![CDATA[<hr>
-<h2 id="tags-博客"><a href="#tags-博客" class="headerlink" title="tags: 博客"></a>tags: 博客</h2><hr>
-<h2 id="categories-干燥工厂"><a href="#categories-干燥工厂" class="headerlink" title="categories: 干燥工厂"></a>categories: 干燥工厂</h2><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>软件介绍：</p>
-<p>Home-brew：是一款MacOS平台下的软件包管理工具，可实现软件的安装、卸载、更新、查看、搜索等功能。可以通过简单的指令对软件进行管理，类似于Ubuntu终端上的apt-get命令。但并非所有软件都可以安装，它只是能安装一些系统缺省的软件包，例如：wget、nginx、mysql等。但随着版本的更新，支持安装第三方数据源的软件包，以后支持安装的软件包会更多、更丰富。</p>
+    <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="软件介绍："><a href="#软件介绍：" class="headerlink" title="软件介绍："></a>软件介绍：</h2><p>Home-brew：<br>Home-brew是一款MacOS平台下的软件包管理工具，可实现软件的安装、卸载、更新、查看、搜索等功能。可以通过简单的指令对软件进行管理，类似于Ubuntu终端上的apt-get命令。但并非所有软件都可以安装，它只是能安装一些系统缺省的软件包，例如：wget、nginx、mysql等。但随着版本的更新，支持安装第三方数据源的软件包，以后支持安装的软件包会更多、更丰富。</p>
 <p>Git:  全称分布式版本控制系统，免费且开源，可以有效高速的处理从小到大的项目版本管理。可以使用git命令将代码提交到GitHub。</p>
-<p>Nvm：全名node.js version management，是Mac下的一种node的版本管理工具。类似于ruby的rum、python的pyenu工具。</p>
-<p>node.js: 是一个Javascript运行环境。（node.js于javascript的区别：JavaScript主要用于前端的编程语言，node.js主要应用于后端，可以快速构建网络服务及应用平台）</p>
-<p>Hexo：静态博客生成器，编写markdown文件，快速生成静态网页。</p>
-<p>GitHub：代码托管共享平台，世界上最大的开源软件社区，支持全平台全设备。GitHub pages可为项目建立静态主页。</p>
+<p>Nvm：<br>全名node.js version management，是Mac下的一种node的版本管理工具。类似于ruby的rum、python的pyenu工具。</p>
+<p>node.js:<br>是一个Javascript运行环境。（node.js于javascript的区别：JavaScript主要用于前端的编程语言，node.js主要应用于后端，可以快速构建网络服务及应用平台）</p>
+<p>Hexo：<br>静态博客生成器，编写markdown文件，快速生成静态网页。</p>
+<p>GitHub：<br>代码托管共享平台，世界上最大的开源软件社区，支持全平台全设备。GitHub pages可为项目建立静态主页。</p>
 <h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><h3 id="一、安装homebrew"><a href="#一、安装homebrew" class="headerlink" title="一、安装homebrew"></a>一、安装homebrew</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">打开终端，执行命令：&#x2F;bin&#x2F;zsh -c &quot;$(curl -fsSL https:&#x2F;&#x2F;gitee.com&#x2F;cunkai&#x2F;HomebrewCN&#x2F;raw&#x2F;master&#x2F;Homebrew.sh)&quot;</span><br><span class="line">查看是否安装成功：brew version</span><br><span class="line">显示如下图则安装成功。</span><br></pre></td></tr></table></figure>
 
 <h3 id="二、安装git"><a href="#二、安装git" class="headerlink" title="二、安装git"></a>二、安装git</h3><pre><code>   通过brew命令安装Git：brew install git
@@ -91,15 +88,21 @@
     在终端输入命令ssh -T git@github.com，若显示以下内容表示已经完成配置了。</code></pre>
 <h3 id="八、通过GitHub网址访问博客"><a href="#八、通过GitHub网址访问博客" class="headerlink" title="八、通过GitHub网址访问博客"></a>八、通过GitHub网址访问博客</h3><pre><code> 现在就可以登陆wucongkui.github.io访问博客了！</code></pre>
 ]]></content>
+      <categories>
+        <category>干燥工厂</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+      </tags>
   </entry>
   <entry>
     <title>最爱的一首诗</title>
     <url>/2020/09/16/test/</url>
-    <content><![CDATA[<h2 id="内容介绍"><a href="#内容介绍" class="headerlink" title="内容介绍"></a>内容介绍</h2><h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p><code> 个人博客</code></p>
-<h3 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h3><p><code> 武聪魁</code></p>
-<h3 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h3><p><code>2020年9月16日</code></p>
-<h3 id="地点"><a href="#地点" class="headerlink" title="地点"></a>地点</h3><p><code> 博杜安公司</code></p>
-<h3 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;&lt;一只孤独的船&gt;&gt;</span><br><span class="line">莱蒙托夫</span><br><span class="line">一只船孤独的航行在海上，</span><br><span class="line">它既不寻求幸福，</span><br><span class="line">也不逃避幸福，</span><br><span class="line">他只是向前航行，</span><br><span class="line">底下是沉静碧蓝的大海，</span><br><span class="line">而头顶是金色的太阳。</span><br><span class="line">将要直面的，</span><br><span class="line">与已成过往的，</span><br><span class="line">较之于深埋于他内心的，</span><br><span class="line">皆为微沫。</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<h1 id="内容介绍"><a href="#内容介绍" class="headerlink" title="内容介绍"></a>内容介绍</h1><h2 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h2><p><code> 个人博客</code></p>
+<h2 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h2><p><code> 武聪魁</code></p>
+<h2 id="时间"><a href="#时间" class="headerlink" title="时间"></a>时间</h2><p><code>2020年9月16日</code></p>
+<h2 id="地点"><a href="#地点" class="headerlink" title="地点"></a>地点</h2><p><code> 博杜安公司</code></p>
+<h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;&lt;一只孤独的船&gt;&gt;</span><br><span class="line">莱蒙托夫</span><br><span class="line">一只船孤独的航行在海上，</span><br><span class="line">它既不寻求幸福，</span><br><span class="line">也不逃避幸福，</span><br><span class="line">他只是向前航行，</span><br><span class="line">底下是沉静碧蓝的大海，</span><br><span class="line">而头顶是金色的太阳。</span><br><span class="line">将要直面的，</span><br><span class="line">与已成过往的，</span><br><span class="line">较之于深埋于他内心的，</span><br><span class="line">皆为微沫。</span><br></pre></td></tr></table></figure>
 
 ]]></content>
       <tags>
